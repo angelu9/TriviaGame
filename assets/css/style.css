@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-image: url(../images/Patriots.jpeg);
+    
+}
+
+.jumbotron {
+    background-image: url(../images/brady.jpeg);
+    
+}
+
+h1, h2, h3, p {
+    color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.lead {
+    font-size: 30px;
+}
+h2 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#game {
+    color: goldenrod;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#wrapper {
+    width: 960px;
+    padding: 20px;
+    margin: 5% auto;
+
+}
+
+.btn {
+    background: red;
+}
+
+button {
+    background: red;
+    margin-left: 70px;
+}
